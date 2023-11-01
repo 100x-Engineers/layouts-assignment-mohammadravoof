@@ -1,12 +1,7 @@
-Deployed link:
-
-      login:https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/login/index.html
-      
-      home-feed:https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/home-feed/index.html
-      
-      compose-tweet:https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/compose-tweet/index.html
-      
-      user-profile:https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/user-profile/index.html
+login: https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/login/index.html
+home-feed: https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/home-feed/index.html
+compose-tweet: https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/compose-tweet/index.html
+user-profile: https://100x-engineers.github.io/layouts-assignment-mohammadravoof/src/user-profile/index.html
       
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/Wzo1QZ03)
